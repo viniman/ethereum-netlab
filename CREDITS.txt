@@ -3,12 +3,16 @@
 All images courtesy of Unsplash (https://unsplash.com).
 
 - Martin Grincevschi (https://unsplash.com/photos/uCnOENPOBxM)
-- 
-Clifford Photography
- (https://unsplash.com/photos/hiFghSs4keM)
+- Clifford Photography (https://unsplash.com/photos/hiFghSs4keM)
 - Ciprian Lipenschi (https://unsplash.com/photos/OULAwYI3AGs)
 - Michael Dam (https://unsplash.com/photos/mEZ3PoFGs_k)
 - rawpixel.com (https://unsplash.com/photos/izTZ-TtdwCs)
+
+
+# Favicon
+
+https://www.iconfinder.com/icons/2907504/coin_cryptocurrency_eth_ethereum_icon
+
 
 # Video Credits
 
