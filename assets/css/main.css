@@ -5,6 +5,38 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+
+/* Uses site*/
+
+
+.icon-contact {
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  position: relative;
+}
+
+
+.getcomp-icon {
+  background-image: url("../../images/logo/getcomp.png");
+  margin-top: 5px;
+}
+
+.netlab-icon {
+  background-image: url("../../images/logo/netlab.png");
+  margin-top: 4px;
+}
+
+.ufjf-icon {
+  background-image: url("../../images/logo/ufjf.png");
+  margin-top: 9px;
+} 
+
+
+
 /* Basic */
 @-ms-viewport {
   width: device-width; }
@@ -578,8 +610,8 @@ ul {
         display: inline-block;
         margin-right: 1rem;
         text-align: center;
-        width: 2rem;
-        height: 2rem;
+        width: 3rem;
+        height: 3rem;
         line-height: 2rem;
         background: rgba(0, 0, 0, 0.5); }
   ul.alt {
